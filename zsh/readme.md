@@ -1,4 +1,5 @@
 In this repository, I record the configuration of my terminal to make setup easier when I get a new computer.
+
 ## Requirements
 
 Before configuring, you need to install some packages and tools first:
