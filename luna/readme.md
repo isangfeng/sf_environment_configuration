@@ -31,3 +31,12 @@ Same way with lunapi installation, lunascope could be installed by pip.
 pip install luncascope
 ```
 
+## LunaR
+
+LunaR is not esay to install like lunapi or lunscope. It could be installed by ```isntall.packages()``` from source code.
+
+```R
+install.packages('~/Downloads/luna-v1.7.0', repos=NULL, type='source')
+```
+
+However, there are lots of errors when I install it, such as missing ```fftw``` packages. Meanwhile, some R packages need system dependencies installed by homebrew or others. It's a bit troublesome, but it could be solved.
